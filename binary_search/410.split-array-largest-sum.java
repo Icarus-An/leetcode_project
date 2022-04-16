@@ -1,0 +1,16 @@
+package binary_search;
+
+/*
+ * @lc app=leetcode id=410 lang=java
+ *
+ * [410] Split Array Largest Sum
+ */
+
+// @lc code=start
+class Solution {
+    public int splitArray(int[] nums, int m) {
+        
+    }
+}
+// @lc code=end
+
