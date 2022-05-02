@@ -1,4 +1,6 @@
-# Dynamic Programming 
+# Dynamic Programming
+
+通过分解问题计算出答案
 
 - The general form of the DP problem is to find the maximum value 
 
